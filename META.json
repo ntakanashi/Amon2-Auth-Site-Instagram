@@ -57,5 +57,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ntakanashi/Amon2-Auth-Site-Instagram/issues"
+      },
+      "homepage" : "https://github.com/ntakanashi/Amon2-Auth-Site-Instagram",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ntakanashi/Amon2-Auth-Site-Instagram.git",
+         "web" : "https://github.com/ntakanashi/Amon2-Auth-Site-Instagram"
+      }
+   },
    "version" : "0.01"
 }
